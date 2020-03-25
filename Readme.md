@@ -1,4 +1,4 @@
-# This is a the template for the Kyso templates 😉
+# This is the template for the Kyso templates 😉
 
 This is a baseline project that you can use to get started writing a Kyso template.
 
