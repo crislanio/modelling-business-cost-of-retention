@@ -1,6 +1,6 @@
 # Modelling Business Cost of Retention
 
-This is a baseline project that you can use to get started writing a Kyso template.
+This is a project about customer attrition analysis and customer attrition rates to identify potential customer churn
 
 ## Installation
 
@@ -17,6 +17,16 @@ Then active a conda virtual environment with
 conda env create -f environment.yml
 conda activate dev
 ```
+## Some tips
+- Connect to [Mongo Atlas](https://studio3t.com/knowledge-base/articles/connect-to-mongodb-atlas/)
+
+Tutorial: Given reference contain various examples of MongoDB operations
+- https://www.w3schools.com/python/python_mongodb_getstarted.asp
+
+For more information see this: 
+- https://docs.atlas.mongodb.com/import/mongoimport/,
+- https://docs.atlas.mongodb.com/connect-to-cluster/
+
 
 ## Installing libraries
 
