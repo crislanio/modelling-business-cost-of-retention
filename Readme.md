@@ -1,4 +1,4 @@
-# This is the template for the Kyso templates 😉
+# Modelling Business Cost of Retention
 
 This is a baseline project that you can use to get started writing a Kyso template.
 
@@ -7,7 +7,7 @@ This is a baseline project that you can use to get started writing a Kyso templa
 Git clone this repository:
 
 ```
-git clone https://github.com/kyso-io/template
+git clone https://github.com/KyleOS/modelling-business-cost-of-retention.git
 ```
 
 Download and install the [Anaconda Python distribution](https://www.anaconda.com/distribution/).

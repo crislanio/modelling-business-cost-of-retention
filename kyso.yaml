@@ -1,6 +1,8 @@
 main: "notebook.ipynb"
 preview: "images/preview.png"
-title: "The Kyso template template"
-description: "The template for the Kyso templates 😉"
+title: "Modelling Business Cost of Retention"
+description: "Using customer attrition analysis and customer attrition rates to identify potential customer churn."
 tags:
-  - template
+  - seo
+  - marketing 
+  - customerchurn
